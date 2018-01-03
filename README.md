@@ -13,5 +13,3 @@ Some of the things I had to:
 - Add markers to the map that when clicked would show a number of articles specific to that location from Google News.
 
 - Remove markers if the area is not visible on the map.
-
-A mashup of Google Maps and Google News where news is filtered by observable locations.
